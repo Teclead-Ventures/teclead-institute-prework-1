@@ -10,7 +10,8 @@ Re-create the Uber homepage as precisely as possible. It doesn't have to be pixe
 
 ### Guidelines
 
-- Use plain HTML and CSS only (i.e. no JavaScript or styling libraries/CSS frameworks).
+- Complete the project within the (empty) `index.html` and `style.css` files in the `src` directory.
+- Use plain HTML and CSS only (no JavaScript or styling libraries/CSS frameworks).
 - Use the screenshot provided as your example to copy. This way everyone copies the same thing (sites often serve different content based on location etc.).
 - Required assets like images and icons are provided in the `src/assets` directory.
 - If you want the exact colors, use your browser's DevTools to inspect the real Uber [homepage](https://www.uber.com).
