@@ -13,9 +13,11 @@ Re-create the Uber homepage as precisely as possible. It doesn't have to be pixe
 - Complete the project within the (empty) `index.html` and `style.css` files in the `src` directory.
 - Use plain HTML and CSS only (no JavaScript or styling libraries/CSS frameworks).
 - Use the screenshot provided as your example to copy. This way everyone copies the same thing (sites often serve different content based on location etc.).
+- Note that you do **not** have to implement the functionality of Uber's homepage.
 - Required assets like images and icons are provided in the `src/assets` directory.
 - If you want the exact colors, use your browser's DevTools to inspect the real Uber [homepage](https://www.uber.com).
 - Uber use their own custom font, so no worries about an exact match. You can stick to `sans-serif` or check out [google fonts](https://fonts.google.com) to try to find a more similar one.
+- _BONUS_: use your browser's DevTools to inspect how the design/layout changes at different screen sizes. Use this as a guide and implement a responsive design for your project.
 
 ### Tips
 
