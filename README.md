@@ -10,8 +10,11 @@ Re-create the Uber homepage as precisely as possible. It doesn't have to be pixe
 
 ### Getting started
 
-- Run `npm install` to install the required dependencies (for this project these are only used to auto-format your work when you make a git commit).
-- Complete the project within the (empty) `index.html` and `style.css` files in the `src` directory.
+- Fork this repo to your own GitHub account.
+- Clone **your forked repo** to your local machine.
+- Run `npm install` from within the project directory to install the required dependencies (for this project these are only used to auto-format your work when you make a git commit).
+- Complete the project within the (empty) `index.html` and `style.css` files in the `src` directory. Don't edit or worry about any other files in the project.
+- When you have finished, commit and push your work to your GitHub repo. Make sure it's public so that we can review it 🙏
 
 ### Guidelines
 
