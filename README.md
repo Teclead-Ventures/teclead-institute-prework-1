@@ -1,5 +1,7 @@
 # Teclead Institute Prework – Part 1
 
+> TODO: PROVIDE REQUIRED ASSETS
+
 ## Uber Homepage Clone
 
 It's time to practice our HTML and CSS skills.
